@@ -176,7 +176,7 @@ class CommunityRegisterController extends CommunityBaseController
             //redirect to avatar upload page.
             $mainframe->redirect(CRoute::_('index.php?option=com_community&view=register&task=registerAvatar', false));
         } else {
-            $this->sendEmail('registration_uncomplete', $tmpUser, $password);
+            // $this->sendEmail('registration_uncomplete', $tmpUser, $password);
 
             //redirect to profile update page.
             // @rule: When there are no defined profile types, we will use the default.
