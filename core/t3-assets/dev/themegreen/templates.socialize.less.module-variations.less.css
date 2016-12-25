@@ -1,0 +1,406 @@
+.sbox1,
+.module-no-border {
+  background-color: transparent;
+  box-shadow: none;
+}
+.sbox1 .module-title,
+.module-no-border .module-title {
+  background-color: transparent;
+  margin: 15px 0;
+  font-size: 24px;
+  padding: 0;
+}
+.sbox1 .module-ct,
+.module-no-border .module-ct {
+  padding: 0;
+  background-color: transparent;
+}
+.sbox5,
+.module-bold {
+  background-color: transparent;
+  border: 5px solid rgba(0, 0, 0, 0.1);
+  box-shadow: none;
+}
+.sbox5 .module-title,
+.module-bold .module-title {
+  background-color: #ececec;
+  color: inherit;
+}
+.sbox5 .module-bold,
+.module-bold .module-bold {
+  border: none;
+}
+.sbox9,
+.module-blue {
+  background-color: #38538e;
+  color: #cad1de;
+}
+.sbox9 .module-title,
+.module-blue .module-title {
+  background-color: #2d467d;
+  color: white;
+}
+.sbox9 .module-ct,
+.module-blue .module-ct {
+  background-color: transparent;
+}
+.sbox9 a,
+.module-blue a {
+  color: white;
+}
+.sbox9 a:hover,
+.module-blue a:hover,
+.sbox9 a:focus,
+.module-blue a:focus,
+.sbox9 a.active,
+.module-blue a.active,
+.sbox9 a.active-state,
+.module-blue a.active-state {
+  color: #cad1de;
+}
+.sbox9 hr,
+.module-blue hr {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+.module-pink {
+  background-color: #eb70bc;
+  color: #ffd4ed;
+}
+.module-pink .module-title {
+  background-color: #e64eac;
+  color: white;
+}
+.module-pink .module-ct {
+  background-color: transparent;
+}
+.module-pink a {
+  color: white;
+}
+.module-pink a:hover,
+.module-pink a:focus,
+.module-pink a.active,
+.module-pink a.active-state {
+  color: #ffd4ed;
+}
+.module-pink hr {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+.module-purple {
+  background-color: #7e57c2;
+  color: #d1c4e9;
+}
+.module-purple .module-title {
+  background-color: #673ab7;
+  color: white;
+}
+.module-purple .module-ct {
+  background-color: transparent;
+}
+.module-purple a {
+  color: #ede7f6;
+}
+.module-purple a:hover,
+.module-purple a:focus,
+.module-purple a.active,
+.module-purple a.active-state {
+  color: #d1c4e9;
+}
+.module-purple hr {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+.module-light-blue {
+  background-color: #03a8f4;
+  color: #a8e0f9;
+}
+.module-light-blue .module-title {
+  background-color: #039ae5;
+  color: white;
+}
+.module-light-blue .module-ct {
+  background-color: transparent;
+}
+.module-light-blue a {
+  color: white;
+}
+.module-light-blue a:hover,
+.module-light-blue a:focus,
+.module-light-blue a.active,
+.module-light-blue a.active-state {
+  color: #a8e0f9;
+}
+.module-light-blue hr {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+.module-light-green {
+  background-color: #b9db70;
+  color: #3e4f22;
+}
+.module-light-green .module-title {
+  background-color: #86d10c;
+  color: white;
+}
+.module-light-green .module-ct {
+  background-color: transparent;
+}
+.module-light-green a {
+  color: white;
+}
+.module-light-green a:hover,
+.module-light-green a:focus,
+.module-light-green a.active,
+.module-light-green a.active-state {
+  color: #3e4f22;
+}
+.module-light-green hr {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+.sbox12,
+.module-green {
+  background-color: #4CAF50;
+  color: #C8E6C9;
+}
+.sbox12 .module-title,
+.module-green .module-title {
+  background-color: #388E3C;
+  color: white;
+}
+.sbox12 .module-ct,
+.module-green .module-ct {
+  background-color: transparent;
+}
+.sbox12 a,
+.module-green a {
+  color: white;
+}
+.sbox12 a:hover,
+.module-green a:hover,
+.sbox12 a:focus,
+.module-green a:focus,
+.sbox12 a.active,
+.module-green a.active,
+.sbox12 a.active-state,
+.module-green a.active-state {
+  color: #C8E6C9;
+}
+.sbox12 hr,
+.module-green hr {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+.sbox10,
+.module-red {
+  background-color: #F44336;
+  color: #FFCDD2;
+}
+.sbox10 .module-title,
+.module-red .module-title {
+  background-color: #D32F2F;
+  color: white;
+}
+.sbox10 .module-ct,
+.module-red .module-ct {
+  background-color: transparent;
+}
+.sbox10 a,
+.module-red a {
+  color: white;
+}
+.sbox10 a:hover,
+.module-red a:hover,
+.sbox10 a:focus,
+.module-red a:focus,
+.sbox10 a.active,
+.module-red a.active,
+.sbox10 a.active-state,
+.module-red a.active-state {
+  color: #FFCDD2;
+}
+.sbox10 hr,
+.module-red hr {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+.sbox11,
+.module-orange {
+  background-color: #FF5722;
+  color: #FFCCBC;
+}
+.sbox11 .module-title,
+.module-orange .module-title {
+  background-color: #E64A19;
+  color: white;
+}
+.sbox11 .module-ct,
+.module-orange .module-ct {
+  background-color: transparent;
+}
+.sbox11 a,
+.module-orange a {
+  color: white;
+}
+.sbox11 a:hover,
+.module-orange a:hover,
+.sbox11 a:focus,
+.module-orange a:focus,
+.sbox11 a.active,
+.module-orange a.active,
+.sbox11 a.active-state,
+.module-orange a.active-state {
+  color: #FFCCBC;
+}
+.sbox11 hr,
+.module-orange hr {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+.module-brown {
+  background-color: #795548;
+  color: #D7CCC8;
+}
+.module-brown .module-title {
+  background-color: #5D4037;
+  color: white;
+}
+.module-brown .module-ct {
+  background-color: transparent;
+}
+.module-brown a {
+  color: white;
+}
+.module-brown a:hover,
+.module-brown a:focus,
+.module-brown a.active,
+.module-brown a.active-state {
+  color: #D7CCC8;
+}
+.module-brown hr {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+.module-gray {
+  background-color: #747474;
+  color: #bdbdbd;
+}
+.module-gray .module-title {
+  background-color: #545454;
+  color: white;
+}
+.module-gray .module-ct {
+  background-color: transparent;
+}
+.module-gray a {
+  color: white;
+}
+.module-gray a:hover,
+.module-gray a:focus,
+.module-gray a.active,
+.module-gray a.active-state {
+  color: #bdbdbd;
+}
+.module-gray hr {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+.module-dark {
+  background-color: #424242;
+  color: #bdbdbd;
+}
+.module-dark .module-title {
+  background-color: #212121;
+  color: white;
+}
+.module-dark .module-ct {
+  background-color: transparent;
+}
+.module-dark a {
+  color: white;
+}
+.module-dark a:hover,
+.module-dark a:focus,
+.module-dark a.active,
+.module-dark a.active-state {
+  color: #bdbdbd;
+}
+.module-dark hr {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+.module.alert {
+  padding: 0;
+  box-shadow: none;
+}
+.module.alert .module-title {
+  padding-bottom: 0;
+}
+.module.alert .alert {
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  border: none;
+}
+.module.alert-success .module-title {
+  background-color: #dff0d8;
+  color: #468847;
+}
+.module.alert-success .module-ct {
+  background-color: #dff0d8;
+  color: #468847;
+}
+.module.alert-success a {
+  color: #356635;
+}
+.module.alert-success a:hover,
+.module.alert-success a:focus,
+.module.alert-success a.active,
+.module.alert-success a.active-state {
+  color: #2c552d;
+  text-decoration: underline;
+}
+.module.alert-info .module-title {
+  background-color: #d9edf7;
+  color: #3a87ad;
+}
+.module.alert-info .module-ct {
+  background-color: #d9edf7;
+  color: #3a87ad;
+}
+.module.alert-info a {
+  color: #2d6987;
+}
+.module.alert-info a:hover,
+.module.alert-info a:focus,
+.module.alert-info a.active,
+.module.alert-info a.active-state {
+  color: #275a74;
+  text-decoration: underline;
+}
+.module.alert-warning .module-title {
+  background-color: #fcf8e3;
+  color: #c09853;
+}
+.module.alert-warning .module-ct {
+  background-color: #fcf8e3;
+  color: #c09853;
+}
+.module.alert-warning a {
+  color: #a47e3c;
+}
+.module.alert-warning a:hover,
+.module.alert-warning a:focus,
+.module.alert-warning a.active,
+.module.alert-warning a.active-state {
+  color: #916f35;
+  text-decoration: underline;
+}
+.module.alert-danger .module-title {
+  background-color: #f2dede;
+  color: #b94a48;
+}
+.module.alert-danger .module-ct {
+  background-color: #f2dede;
+  color: #b94a48;
+}
+.module.alert-danger a {
+  color: #953b39;
+}
+.module.alert-danger a:hover,
+.module.alert-danger a:focus,
+.module.alert-danger a.active,
+.module.alert-danger a.active-state {
+  color: #833332;
+  text-decoration: underline;
+}
